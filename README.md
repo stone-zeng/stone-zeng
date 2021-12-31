@@ -1,7 +1,7 @@
 ```
 I’m Xiangdong Zeng working with
 
-  |Physics⟩ ⊗ |LaTeX⟩ ⊗ (|Typography⟩ + |Type design⟩) / √2.
+  |Physics⟩ ⊗ |LaTeX⟩ ⊗ (|Font engineering⟩ + |Type design⟩) / √2.
 ```
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stone-zeng&show_icons=true)
