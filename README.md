@@ -6,7 +6,7 @@ I’m Xiangdong Zeng working with
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=stone-zeng&show_icons=true&theme=dark">
-  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stone-zeng&show_icons=true">
+  <img alt="My GitHub Stars" src="https://github-readme-stats.vercel.app/api?username=stone-zeng&show_icons=true">
 </picture>
 
 <picture>
