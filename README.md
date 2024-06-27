@@ -1,7 +1,7 @@
 ```
 I’m Xiangdong Zeng working with
 
-  |Physics⟩ ⊗ |LaTeX⟩ ⊗ (|Font engineering⟩ + |Type design⟩) / √2.
+  |Quantum computing⟩ ⊗ (|Font engineering⟩ + |Type design⟩) / √2.
 ```
 
 <picture>
